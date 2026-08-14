@@ -19,7 +19,7 @@ API_ID = "37988924" # API ID
 API_HASH = "fccc55f248cf1739f6cf120d3e244561" # API HASH
 WORKERS = 5
 
-DB_URI = "" # MongoDB URI
+DB_URI = "mongodb+srv://autoanimedb:joseph123@cluster0.goovppg.mongodb.net/?appName=Cluster0" # MongoDB URI
 DB_NAME = "Filestore"
 
 FSUBS = [[-1004362534748, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
