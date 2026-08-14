@@ -14,7 +14,7 @@ SHORT_TUT = "" # shortner tutorial link
 
 # Bot Configuration
 SESSION = "BotifyX"
-TOKEN = "" # Bot token
+TOKEN = "8450742648:AAEjCqe7G4tBucb0t21qcesoXe5snsnIG0A" # Bot token
 API_ID = "37988924" # API ID
 API_HASH = "fccc55f248cf1739f6cf120d3e244561" # API HASH
 WORKERS = 5
