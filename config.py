@@ -33,7 +33,7 @@ DB_CHANNEL =  -1004209999970  # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [7583913669]
+ADMINS = [7197030791]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = False # For content protection stops message forwarding and copying from the bot and same goes for the screenshot
