@@ -14,7 +14,7 @@ SHORT_TUT = "" # shortner tutorial link
 
 # Bot Configuration
 SESSION = "BotifyX"
-TOKEN = "8450742648:AAEjCqe7G4tBucb0t21qcesoXe5snsnIG0A" # Bot token
+TOKEN = "8450742648:AAHh6l3PnKlsHISMqio7Jaeh7HPJYk4j_-g" # Bot token
 API_ID = "37988924" # API ID
 API_HASH = "fccc55f248cf1739f6cf120d3e244561" # API HASH
 WORKERS = 5
@@ -47,7 +47,7 @@ MESSAGES = {
     "REPLY": "<b>sorry !!!</b>",
     "SHORT_MSG": "<blockquote><b>✧ TOKEN EXPIRED</b></blockquote>\n<blockquote>›› ᴘʟᴇᴀsᴇ ᴠᴇʀɪғʏ ᴛᴏ ʀᴇɢᴀɪɴ ᴀᴄᴄᴇss ᴛᴏ ᴛʜᴇ ғɪʟᴇs\n›› ᴠᴀʟɪᴅ ᴄʀᴇᴅɪᴛs: 5 ᴄʀᴇᴅɪᴛs</blockquote>\n────────────────────────\n<blockquote>›› ᴡʜᴀᴛ ɪs ᴀ ᴛᴏᴋᴇɴ?</blockquote>\n<blockquote>≡  ᴇᴀᴄʜ ᴀᴅ ʙʏᴘᴀss ʀᴇᴡᴀʀᴅ ʏᴏᴜ ᴡɪᴛʜ 5 ᴄʀᴇᴅɪᴛs.ᴏɴᴇ ᴄʀᴇᴅɪᴛ ɪs ᴄᴏɴsᴜᴍᴇᴅ ᴘᴇʀ ғɪʟᴇ/ʟɪɴᴋ ᴀᴄᴄᴇss.</blockquote>",
     "START_PHOTO": "https://ibb.co/ch6kvnMf",
-    "FSUB_PHOTO": "https://ibb.co/C5q41g1C",
+    "FSUB_PHOTO": "",
     "SHORT_PIC": "https://ibb.co/XxMhdhDs",
     "SHORT": "https://ibb.co/mC9H5kmF",
     "SHORT_VERIFY": "https://ibb.co/rGg6R2q6",
